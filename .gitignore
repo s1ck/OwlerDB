@@ -1,0 +1,5 @@
+.svn
+*.suo
+bin
+obj
+*/graphs/*
