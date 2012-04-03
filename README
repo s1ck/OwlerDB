@@ -1,0 +1,7 @@
+OwlerDB
+
+OwlerDB is a simple approach for an in-memory GraphDB. I used it for a little project in my bachelor studies to compare different parallelisation methods made available by .net 4.0. The results of that benchmark can be found here: http://s1ckboy.de/blog/2011/02/19/implementing-parallel-breadth-first-search-using-net-4-0-tpl/
+Maybe i'll use it for some upcoming algorithm implementations.
+
+License is MIT, so feel free to use it for whatever you want.
+
